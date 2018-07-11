@@ -1,0 +1,7 @@
+{
+  "verbose": true,
+  "legacyWatch": true,
+  "script": "index.js",
+  "ignoreRoot": ["users", "node_modules", "new user.js"],
+  "watch": ["commands", "index.js", "functions.js"]
+}
